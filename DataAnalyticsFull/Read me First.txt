@@ -1,0 +1,7 @@
+ESSENTIAL OUTPUTS
+1.EDA
+2.dashboard
+3.clean_sales_excel
+4.main pg admin SQL
+5.synopsis
+
